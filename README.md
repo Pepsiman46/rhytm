@@ -1,1 +1,1 @@
-# rhytm
+# yaptığım işler (programming)
